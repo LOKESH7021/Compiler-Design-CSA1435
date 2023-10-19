@@ -156,7 +156,7 @@ int main()
 
 	return (0);
 }
-OUTPUT:
+/*OUTPUT:
 'int' IS A KEYWORD
 'a' IS A VALID IDENTIFIER
 '=' IS AN OPERATOR
@@ -166,4 +166,4 @@ OUTPUT:
 
 --------------------------------
 Process exited after 1.957 seconds with return value 0
-Press any key to continue . . .
+Press any key to continue . . .*/
