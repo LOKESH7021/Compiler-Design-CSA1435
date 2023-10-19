@@ -26,4 +26,4 @@ enter:// Hello world
 
 // hello
 //bye
-no of comment lines:5*/
+no of comment lines:5 */
