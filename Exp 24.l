@@ -16,3 +16,7 @@ int main() {
     yylex();
     return 0;
 }
+
+/*OUTPUT:
+Enter the string: abc
+ABC */
