@@ -23,3 +23,9 @@ printf ("number of positive numbers = %d,"
 
 return 0;
 }
+
+/*OUTPUT:
+enter the numbers: -9
+negative number = -9
+number of positive number = 0
+number of negative number = 1*/
