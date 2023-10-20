@@ -23,3 +23,13 @@ int main(){
      
     return 0;
 }
+
+/*OUTPUT:
+Enter the sentence:
+hello have a nice day
+i am a student
+
+Number of lines: 2
+Number of spaces: 9
+Number of words: 12
+Number of character: 47*/
