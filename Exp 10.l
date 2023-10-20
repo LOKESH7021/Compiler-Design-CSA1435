@@ -21,7 +21,6 @@ printf("no of comment lines:%d",n);
 /*OUTPUT:
 C:\Users\LOKESH KUMAR>a
 enter:// Hello world
- hello 
 // Hello world
 
 // hello
