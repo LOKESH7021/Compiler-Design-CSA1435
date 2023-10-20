@@ -14,3 +14,7 @@ int main()
 printf("Enter the URL::");
 yylex();
 }
+
+/*OUTPUT:
+Enter the URL:: http://www.abcd.com
+it is an valid url.*/
