@@ -16,3 +16,7 @@ yyout=fopen("out.txt","w");
 yylex();
 return 0;
 }
+
+/*OUTPUT:
+1:#include<stdio.h>
+2:*/
