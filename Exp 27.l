@@ -17,3 +17,10 @@ int main()
 printf("Enter the Operator::");
 yylex();
 }
+
+/*OUTPUT:
+Enter the Opertor::
+sum =13
+diff =1
+mul =42
+div =1*/
