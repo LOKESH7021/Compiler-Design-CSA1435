@@ -46,7 +46,8 @@ int main()
 	else
 	printf("\n the string is rejected");
 }
-OUTPUT:
+
+/*OUTPUT:
 Implement of recursive descent parsing
 Enter the expression:
 E -> TE'
@@ -55,4 +56,4 @@ T -> FT'
 T' -> *FT'/ε
 F -> (E)/Id
 
-The String is Accepted.
+The String is Accepted.*/
